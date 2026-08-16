@@ -1,0 +1,555 @@
+{
+  "apio": {
+    "display": "Asia-Pacific Informatics Olympiad",
+    "years": {
+      "2007": {
+        "size": 307248,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2007.tar.gz"
+      },
+      "2008": {
+        "size": 842503,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2008.tar.gz"
+      },
+      "2009": {
+        "size": 757600,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2009.tar.gz"
+      },
+      "2010": {
+        "size": 1125918,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2010.tar.gz"
+      },
+      "2012": {
+        "size": 304084,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2012.tar.gz"
+      },
+      "2013": {
+        "size": 1297053,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2013.tar.gz"
+      },
+      "2015": {
+        "size": 633008,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2015.tar.gz"
+      },
+      "2016": {
+        "size": 821817,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2016.tar.gz"
+      },
+      "2017": {
+        "size": 1325340,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2017.tar.gz"
+      },
+      "2018": {
+        "size": 227208,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2018.tar.gz"
+      },
+      "2019": {
+        "size": 135180,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2019.tar.gz"
+      },
+      "2020": {
+        "size": 730263,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2020.tar.gz"
+      },
+      "2021": {
+        "size": 967169,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2021.tar.gz"
+      },
+      "2022": {
+        "size": 754836,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2022.tar.gz"
+      },
+      "2023": {
+        "size": 1201565,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2023.tar.gz"
+      },
+      "2024": {
+        "size": 680859,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2024.tar.gz"
+      },
+      "2025": {
+        "size": 1422909,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2025.tar.gz"
+      },
+      "2026": {
+        "size": 676989,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/apio/apio-2026.tar.gz"
+      }
+    }
+  },
+  "baltoi": {
+    "display": "Baltic Olympiad in Informatics",
+    "years": {
+      "2003": {
+        "size": 252517,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2003.tar.gz"
+      },
+      "2004": {
+        "size": 733077,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2004.tar.gz"
+      },
+      "2005": {
+        "size": 1108324,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2005.tar.gz"
+      },
+      "2006": {
+        "size": 451345,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2006.tar.gz"
+      },
+      "2007": {
+        "size": 1452891,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2007.tar.gz"
+      },
+      "2008": {
+        "size": 443878,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2008.tar.gz"
+      },
+      "2009": {
+        "size": 155749,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2009.tar.gz"
+      },
+      "2010": {
+        "size": 559026,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2010.tar.gz"
+      },
+      "2011": {
+        "size": 5272907,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2011.tar.gz"
+      },
+      "2012": {
+        "size": 3840736,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2012.tar.gz"
+      },
+      "2013": {
+        "size": 1895930,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2013.tar.gz"
+      },
+      "2014": {
+        "size": 2724508,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2014.tar.gz"
+      },
+      "2015": {
+        "size": 4709757,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2015.tar.gz"
+      },
+      "2016": {
+        "size": 313243,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2016.tar.gz"
+      },
+      "2017": {
+        "size": 1587868,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2017.tar.gz"
+      },
+      "2018": {
+        "size": 677345,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2018.tar.gz"
+      },
+      "2019": {
+        "size": 1542093,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2019.tar.gz"
+      },
+      "2020": {
+        "size": 259387,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2020.tar.gz"
+      },
+      "2021": {
+        "size": 738107,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 1680864,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 1453013,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 1377991,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 1928092,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2025.tar.gz"
+      },
+      "2026": {
+        "size": 615354,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/baltoi/baltoi-2026.tar.gz"
+      }
+    }
+  },
+  "ceoi": {
+    "display": "Central European Olympiad in Informatics",
+    "years": {
+      "2010": {
+        "size": 2519155,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2010.tar.gz"
+      },
+      "2011": {
+        "size": 1641273,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2011.tar.gz"
+      },
+      "2012": {
+        "size": 1794774,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2012.tar.gz"
+      },
+      "2013": {
+        "size": 5827764,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2013.tar.gz"
+      },
+      "2014": {
+        "size": 2729426,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2014.tar.gz"
+      },
+      "2015": {
+        "size": 723262,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2015.tar.gz"
+      },
+      "2016": {
+        "size": 3128754,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2016.tar.gz"
+      },
+      "2017": {
+        "size": 2910788,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2017.tar.gz"
+      },
+      "2018": {
+        "size": 1222973,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2018.tar.gz"
+      },
+      "2019": {
+        "size": 1423494,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2019.tar.gz"
+      },
+      "2020": {
+        "size": 2607518,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2020.tar.gz"
+      },
+      "2021": {
+        "size": 7977628,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 23909192,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 652238,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 1181446,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 2665475,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ceoi/ceoi-2025.tar.gz"
+      }
+    }
+  },
+  "egoi": {
+    "display": "European Girls' Olympiad in Informatics",
+    "years": {
+      "2021": {
+        "size": 4827688,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 2254567,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 2615496,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 2173750,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 1952907,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2025.tar.gz"
+      },
+      "2026": {
+        "size": 2020964,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/egoi/egoi-2026.tar.gz"
+      }
+    }
+  },
+  "ejoi": {
+    "display": "European Junior Olympiad in Informatics",
+    "years": {
+      "2017": {
+        "size": 4997534,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2017.tar.gz"
+      },
+      "2018": {
+        "size": 1199366,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2018.tar.gz"
+      },
+      "2019": {
+        "size": 1526912,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2019.tar.gz"
+      },
+      "2020": {
+        "size": 1855270,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2020.tar.gz"
+      },
+      "2021": {
+        "size": 1280557,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 1938647,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 1316830,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 2188172,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 1758650,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ejoi/ejoi-2025.tar.gz"
+      }
+    }
+  },
+  "ioi": {
+    "display": "International Olympiad in Informatics",
+    "years": {
+      "2002": {
+        "size": 237376,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2002.tar.gz"
+      },
+      "2003": {
+        "size": 275800,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2003.tar.gz"
+      },
+      "2004": {
+        "size": 672797,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2004.tar.gz"
+      },
+      "2005": {
+        "size": 825175,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2005.tar.gz"
+      },
+      "2006": {
+        "size": 566598,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2006.tar.gz"
+      },
+      "2007": {
+        "size": 1040028,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2007.tar.gz"
+      },
+      "2008": {
+        "size": 1502982,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2008.tar.gz"
+      },
+      "2009": {
+        "size": 802466,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2009.tar.gz"
+      },
+      "2010": {
+        "size": 5579004,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2010.tar.gz"
+      },
+      "2011": {
+        "size": 1753287,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2011.tar.gz"
+      },
+      "2012": {
+        "size": 1111335,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2012.tar.gz"
+      },
+      "2013": {
+        "size": 7029842,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2013.tar.gz"
+      },
+      "2014": {
+        "size": 2651300,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2014.tar.gz"
+      },
+      "2015": {
+        "size": 4530163,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2015.tar.gz"
+      },
+      "2016": {
+        "size": 1652160,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2016.tar.gz"
+      },
+      "2017": {
+        "size": 3852373,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2017.tar.gz"
+      },
+      "2018": {
+        "size": 4430417,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2018.tar.gz"
+      },
+      "2019": {
+        "size": 2728200,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2019.tar.gz"
+      },
+      "2020": {
+        "size": 2149389,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2020.tar.gz"
+      },
+      "2021": {
+        "size": 813430,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 1123835,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 1714059,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 2595096,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 737458,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/ioi/ioi-2025.tar.gz"
+      }
+    }
+  },
+  "joi": {
+    "display": "JOI Final (English)",
+    "years": {
+      "2017": {
+        "size": 3494955,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2017.tar.gz"
+      },
+      "2018": {
+        "size": 5355474,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2018.tar.gz"
+      },
+      "2019": {
+        "size": 4449967,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2019.tar.gz"
+      },
+      "2020": {
+        "size": 5455982,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2020.tar.gz"
+      },
+      "2021": {
+        "size": 3129832,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2021.tar.gz"
+      },
+      "2022": {
+        "size": 7850105,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2022.tar.gz"
+      },
+      "2023": {
+        "size": 5776126,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2023.tar.gz"
+      },
+      "2024": {
+        "size": 11254766,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2024.tar.gz"
+      },
+      "2025": {
+        "size": 4487750,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joi/joi-2025.tar.gz"
+      }
+    }
+  },
+  "joioc": {
+    "display": "JOI Open Contest",
+    "years": {
+      "2013": {
+        "size": 89305,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2013.tar.gz"
+      },
+      "2014": {
+        "size": 3996047,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2014.tar.gz"
+      },
+      "2015": {
+        "size": 94978,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2015.tar.gz"
+      },
+      "2016": {
+        "size": 168899,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2016.tar.gz"
+      },
+      "2017": {
+        "size": 161137,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2017.tar.gz"
+      },
+      "2018": {
+        "size": 198102,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2018.tar.gz"
+      },
+      "2019": {
+        "size": 150724,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2019.tar.gz"
+      },
+      "2020": {
+        "size": 232135,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2020.tar.gz"
+      },
+      "2021": {
+        "size": 277947,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2021.tar.gz"
+      },
+      "2022": {
+        "size": 2653640,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2022.tar.gz"
+      },
+      "2023": {
+        "size": 2567641,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2023.tar.gz"
+      },
+      "2024": {
+        "size": 8158461,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2024.tar.gz"
+      },
+      "2025": {
+        "size": 2807911,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joioc/joioc-2025.tar.gz"
+      }
+    }
+  },
+  "joisc": {
+    "display": "JOI Spring Camp (English)",
+    "years": {
+      "2017": {
+        "size": 16726514,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2017.tar.gz"
+      },
+      "2019": {
+        "size": 10538921,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2019.tar.gz"
+      },
+      "2020": {
+        "size": 7082950,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2020.tar.gz"
+      },
+      "2021": {
+        "size": 11501200,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2021.tar.gz"
+      },
+      "2022": {
+        "size": 10340263,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2022.tar.gz"
+      },
+      "2023": {
+        "size": 12112826,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2023.tar.gz"
+      },
+      "2024": {
+        "size": 12757162,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2024.tar.gz"
+      },
+      "2025": {
+        "size": 13106898,
+        "url": "https://github.com/TraianDanciu/lca-oi-db/releases/download/joisc/joisc-2025.tar.gz"
+      }
+    }
+  }
+}
